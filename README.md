@@ -1,4 +1,4 @@
-# 👋 Dartayous Hunter — Digital Twin Engineer (in progress)
+# 👋 Dartayous Hunter — Digital Twin Engineer 
 
 I am building toward a career in **Digital Twin Engineering**, focused on the NVIDIA ecosystem:
 
