@@ -1,5 +1,12 @@
 # 👋 Dartayous Hunter — Digital Twin / Robotics Simulation Engineer (NVIDIA Ecosystem Track)
 
+![OpenUSD](https://img.shields.io/badge/OpenUSD-252525?style=for-the-badge&logo=nvidia)
+![Omniverse](https://img.shields.io/badge/Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Digital Twin](https://img.shields.io/badge/Digital%20Twin-Engineering-blue?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/Simulation-Systems-orange?style=for-the-badge)
+
 > Building production-ready Digital Twin systems using:
 
 - OpenUSD
@@ -21,11 +28,14 @@ OpenUSD scene graph, instancing, lighting, and physics in Omniverse
 ---
 
 ### 🤖 Robotics Simulation
+
+![Franka Pick and Place Demo](https://github.com/Dartayous/isaacsim-franka-pick-place/raw/main/output/video/demo.gif)
+
 🔹 [Isaac Sim Franka Pick & Place](https://github.com/Dartayous/isaacsim-franka-pick-place)  
-Physics-based manipulation with interpolated motion and stable grasping  
+→ Physics-based manipulation pipeline  
 
 🔹 [Interactive Robotics Digital Twin (Navigation)](https://github.com/Dartayous/isaacsim-autonomous-navigation-twin)  
-OmniGraph-based navigation, dynamic goal tracking, and real-time path planning  
+→ OmniGraph navigation + dynamic path planning   
 
 ---
 
