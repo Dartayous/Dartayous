@@ -1,6 +1,6 @@
-# 👋 Dartayous Hunter — Digital Twin / Robotics Simulation Engineer
+# 👋 Dartayous Hunter — Digital Twin / Robotics Simulation Engineer (NVIDIA Ecosystem Track)
 
-I am building toward a career in **Digital Twin Engineering**, focused on the NVIDIA ecosystem:
+> Building production-ready Digital Twin systems using:
 
 - OpenUSD
 - Omniverse
@@ -41,14 +41,22 @@ Python-based tool for USD stage manipulation, transform control, and variant aut
 
 ---
 
-## 🧠 Skills in Progress
+## ⚡ Current Focus
 
-- OpenUSD (composition, variants, instancing)
-- Omniverse workflows
-- Isaac Sim robotics systems
-- Synthetic data pipelines
-- Python for simulation and pipeline tooling
+- Building real-world → USD digital twin environments  
+- Advancing robotics + perception pipelines  
+- Strengthening OpenUSD pipeline engineering skills  
 
+---
+
+## 🧰 Tech Stack
+
+- OpenUSD (USD composition, variants, instancing)
+- NVIDIA Omniverse
+- Isaac Sim
+- Python (pipeline tooling + simulation)
+- Synthetic Data (Replicator)
+  
 ---
 
 ## 🎯 Career Goal
