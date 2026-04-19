@@ -22,7 +22,7 @@
 - Synthetic Data Pipelines
 - AI Decision Systems (Cosmos-ready)
 ---
-→ Full Skills Matrix: [[Project 09 Repo Link](https://github.com/Dartayous/Digital-Twin-Engineer-Skills-Matrix-Dartayous-Hunter)]
+→ Full Skills Matrix: [[Digital Twin Engineer Skills Matrix](https://github.com/Dartayous/Digital-Twin-Engineer-Skills-Matrix-Dartayous-Hunter)]
 ---
 
 My learning approach:
