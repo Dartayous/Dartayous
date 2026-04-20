@@ -63,9 +63,6 @@ Real-time digital twin office environment built in NVIDIA Omniverse using OpenUS
 🔹 [OpenUSD Pipeline Tool](https://github.com/Dartayous/openusd-pipeline-tool)  
 Python-based tool for USD stage manipulation, transform control, and variant authoring  
 
-🔹 [Omniverse Usd Scene Demo ](https://github.com/Dartayous/omniverse-usd-scene-demo) 
-OpenUSD scene construction demo showcasing composition, instancing, lighting, and physics in Omniverse  
-
 🔹 [Cosmos Ready Digital Twin Evaluation Pipeline](https://github.com/Dartayous/cosmos-ready-digital-twin-evaluation-pipeline)
 Isaac Sim digital twin evaluation pipeline with telemetry-aware run packaging, simulated Cosmos Predict outputs, and dual-mode Cosmos Reason integration.  
 
