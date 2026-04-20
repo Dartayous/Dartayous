@@ -45,8 +45,8 @@ OpenUSD scene graph, instancing, lighting, and physics in Omniverse
 🔹 [Isaac Sim Franka Pick & Place](https://github.com/Dartayous/isaacsim-franka-pick-place)  
 → Physics-based manipulation pipeline  
 
-🔹 [Interactive Robotics Digital Twin (Navigation)](https://github.com/Dartayous/isaacsim-autonomous-navigation-twin)  
-→ OmniGraph navigation + dynamic path planning   
+🔹 [AI Digital Twin Camera Agent  (Navigation)](https://github.com/Dartayous/ai-digital-twin-camera-agent)
+→ AI-driven camera agent that performs target detection and lock-on inside an OpenUSD digital twin environment using perception-based logic.    
 
 ---
 
@@ -54,11 +54,20 @@ OpenUSD scene graph, instancing, lighting, and physics in Omniverse
 🔹 [Synthetic Data Generation Pipeline](https://github.com/Dartayous/synthetic-data-generation-pipeline)  
 OpenUSD + Replicator pipeline for generating labeled datasets  
 
+🔹 [Real-time Digital Twin Lighting Omniverse ](https://github.com/Dartayous/real-time-digital-twin-lighting-omniverse)
+Real-time digital twin office environment built in NVIDIA Omniverse using OpenUSD, focused on lighting, materials, and scene composition.  
+
 ---
 
 ### ⚙️ Pipeline Engineering
 🔹 [OpenUSD Pipeline Tool](https://github.com/Dartayous/openusd-pipeline-tool)  
 Python-based tool for USD stage manipulation, transform control, and variant authoring  
+
+🔹 [Omniverse Usd Scene Demo ](https://github.com/Dartayous/omniverse-usd-scene-demo) 
+OpenUSD scene construction demo showcasing composition, instancing, lighting, and physics in Omniverse  
+
+🔹 [Cosmos Ready Digital Twin Evaluation Pipeline](https://github.com/Dartayous/cosmos-ready-digital-twin-evaluation-pipeline)
+Isaac Sim digital twin evaluation pipeline with telemetry-aware run packaging, simulated Cosmos Predict outputs, and dual-mode Cosmos Reason integration.  
 
 ---
 
