@@ -1,4 +1,4 @@
-# 👋 Dartayous Hunter — Digital Twin / Robotics Simulation Engineer (NVIDIA Ecosystem Track)
+# 👋 Dartayous Hunter — Computer Vision / Digital Twin / Robotics Simulation Engineer (NVIDIA Ecosystem Track)
 
 ![OpenUSD](https://img.shields.io/badge/OpenUSD-252525?style=for-the-badge&logo=nvidia)
 ![Omniverse](https://img.shields.io/badge/Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
