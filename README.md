@@ -59,6 +59,7 @@ Real-time digital twin office environment built in NVIDIA Omniverse using OpenUS
 
 🔹 [Real-time Computer Vision Simulation to Detection Pipeline ](https://github.com/Dartayous/computer-vision-simulation-to-detection-pipeline/tree/main)
 Real-time digital twin environment built in NVIDIA Omniverse using OpenUSD, focused on computer vision, materials, and pipeline. 
+
 ---
 
 ### ⚙️ Pipeline Engineering
