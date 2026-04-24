@@ -57,6 +57,8 @@ OpenUSD + Replicator pipeline for generating labeled datasets
 🔹 [Real-time Digital Twin Lighting Omniverse ](https://github.com/Dartayous/real-time-digital-twin-lighting-omniverse)
 Real-time digital twin office environment built in NVIDIA Omniverse using OpenUSD, focused on lighting, materials, and scene composition.  
 
+🔹 [Real-time Computer Vision Simulation to Detection Pipeline ](https://github.com/Dartayous/computer-vision-simulation-to-detection-pipeline/tree/main)
+Real-time digital twin environment built in NVIDIA Omniverse using OpenUSD, focused on computer vision, materials, and pipeline. 
 ---
 
 ### ⚙️ Pipeline Engineering
