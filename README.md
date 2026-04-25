@@ -30,7 +30,7 @@ My learning approach:
 
 ---
 
-## 🚀 Portfolio Projects
+## Portfolio Projects
 
 ### OpenUSD Foundations
 🔹 [Omniverse OpenUSD Scene Construction Demo](https://github.com/Dartayous/omniverse-usd-scene-demo)  
