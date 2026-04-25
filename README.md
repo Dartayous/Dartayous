@@ -1,4 +1,4 @@
-# 👋 Dartayous Hunter — Computer Vision / Digital Twin / Robotics Simulation Engineer (NVIDIA Ecosystem Track)
+# Dartayous Hunter — Computer Vision / Digital Twin / Robotics Simulation Engineer (NVIDIA Ecosystem Track)
 
 ![OpenUSD](https://img.shields.io/badge/OpenUSD-252525?style=for-the-badge&logo=nvidia)
 ![Omniverse](https://img.shields.io/badge/Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -32,7 +32,7 @@ My learning approach:
 
 ## 🚀 Portfolio Projects
 
-### 🧱 OpenUSD Foundations
+### OpenUSD Foundations
 🔹 [Omniverse OpenUSD Scene Construction Demo](https://github.com/Dartayous/omniverse-usd-scene-demo)  
 OpenUSD scene graph, instancing, lighting, and physics in Omniverse  
 
@@ -50,7 +50,7 @@ OpenUSD scene graph, instancing, lighting, and physics in Omniverse
 
 ---
 
-### 🧠 Synthetic Data / Computer Vision
+### Synthetic Data / Computer Vision
 🔹 [Synthetic Data Generation Pipeline](https://github.com/Dartayous/synthetic-data-generation-pipeline)  
 OpenUSD + Replicator pipeline for generating labeled datasets  
 
@@ -62,7 +62,7 @@ Real-time digital twin environment built in NVIDIA Omniverse using OpenUSD, focu
 
 ---
 
-### ⚙️ Pipeline Engineering
+### Pipeline Engineering
 🔹 [OpenUSD Pipeline Tool](https://github.com/Dartayous/openusd-pipeline-tool)  
 Python-based tool for USD stage manipulation, transform control, and variant authoring  
 
@@ -71,7 +71,7 @@ Isaac Sim digital twin evaluation pipeline with telemetry-aware run packaging, s
 
 ---
 
-## ⚡ Current Focus
+## Current Focus
 
 - Building real-world → USD digital twin environments  
 - Advancing robotics + perception pipelines  
@@ -79,7 +79,7 @@ Isaac Sim digital twin evaluation pipeline with telemetry-aware run packaging, s
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - OpenUSD (USD composition, variants, instancing)
 - NVIDIA Omniverse
@@ -89,7 +89,7 @@ Isaac Sim digital twin evaluation pipeline with telemetry-aware run packaging, s
   
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
 To work on:
 - Digital Twin systems  
@@ -99,13 +99,13 @@ To work on:
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 - LinkedIn: *https://www.linkedin.com/in/dartayoushunter*
 - Email: *dartayous@gmail.com*
 
 ---
 
-## ⚡ What I’m Doing Right Now
+## What I’m Doing Right Now
 
 Building Multiple Digital Twin / Robotics Simulation Projects to develop an impressive and robust demo reel. 
