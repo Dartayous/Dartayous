@@ -38,7 +38,7 @@ OpenUSD scene graph, instancing, lighting, and physics in Omniverse
 
 ---
 
-### 🤖 Robotics Simulation
+###  Robotics Simulation
 
 ![Franka Pick and Place Demo](https://github.com/Dartayous/isaacsim-franka-pick-place/blob/main/media/franka_pick_place_demo.gif?raw=true)
 
