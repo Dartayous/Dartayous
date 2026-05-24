@@ -32,7 +32,7 @@ My learning approach:
 
 ## Portfolio Projects
 
-### OpenUSD Foundations
+### REAL WORLD Experience
 🔹 [REAL WORLD AI DEBUGGING](https://github.com/Dartayous/real-world-ai-debugging)  
 Debugging & Infrastructure 
 
