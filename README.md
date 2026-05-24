@@ -114,4 +114,4 @@ To work on:
 
 ## What I’m Doing Right Now
 
-Building Multiple Digital Twin / Robotics Simulation Projects to develop an impressive and robust demo reel. 
+Assisting on REAL WORLD PROJECTS and building Multiple Digital Twin / Robotics Simulation Projects to develop an impressive and robust demo reel. 
