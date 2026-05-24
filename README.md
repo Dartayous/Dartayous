@@ -33,6 +33,10 @@ My learning approach:
 ## Portfolio Projects
 
 ### OpenUSD Foundations
+🔹 [REAL WORLD AI DEBUGGING](https://github.com/Dartayous/real-world-ai-debugging)  
+Debugging & Infrastructure 
+
+### OpenUSD Foundations
 🔹 [Omniverse OpenUSD Scene Construction Demo](https://github.com/Dartayous/omniverse-usd-scene-demo)  
 OpenUSD scene graph, instancing, lighting, and physics in Omniverse  
 
