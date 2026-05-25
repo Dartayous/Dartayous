@@ -30,9 +30,9 @@ My learning approach:
 
 ---
 
-## Portfolio Projects
+# Portfolio Projects
 
-### REAL WORLD Experience
+## REAL WORLD Experience
 🔹 [REAL WORLD AI DEBUGGING](https://github.com/Dartayous/real-world-ai-debugging)  
 Debugging & Infrastructure 
 
@@ -40,13 +40,13 @@ Debugging & Infrastructure
 
 ---
 
-### OpenUSD Foundations
+## OpenUSD Foundations
 🔹 [Omniverse OpenUSD Scene Construction Demo](https://github.com/Dartayous/omniverse-usd-scene-demo)  
 OpenUSD scene graph, instancing, lighting, and physics in Omniverse  
 
 ---
 
-###  Robotics Simulation
+##  Robotics Simulation
 
 ![Franka Pick and Place Demo](https://github.com/Dartayous/isaacsim-franka-pick-place/blob/main/media/franka_pick_place_demo.gif?raw=true)
 
@@ -58,7 +58,7 @@ OpenUSD scene graph, instancing, lighting, and physics in Omniverse
 
 ---
 
-### Synthetic Data / Computer Vision
+## Synthetic Data / Computer Vision
 🔹 [Synthetic Data Generation Pipeline](https://github.com/Dartayous/synthetic-data-generation-pipeline)  
 OpenUSD + Replicator pipeline for generating labeled datasets  
 
@@ -70,7 +70,7 @@ Real-time digital twin environment built in NVIDIA Omniverse using OpenUSD, focu
 
 ---
 
-### Pipeline Engineering
+## Pipeline Engineering
 🔹 [OpenUSD Pipeline Tool](https://github.com/Dartayous/openusd-pipeline-tool)  
 Python-based tool for USD stage manipulation, transform control, and variant authoring  
 
