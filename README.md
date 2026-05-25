@@ -103,7 +103,8 @@ To work on:
 - Digital Twin systems  
 - Robotics simulation  
 - NVIDIA Omniverse / Isaac ecosystem  
-- Simulation-driven AI systems  
+- Simulation-driven AI systems
+- AI Computer Vision Engineering 
 
 ---
 
